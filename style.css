@@ -158,6 +158,9 @@ section{
     font-size: 24px;
     text-align: center;
 }
+.dropstack .block{
+    cursor: pointer;
+}
 .dropstack .block i:hover{
     cursor: pointer;
     filter: invert(1);
