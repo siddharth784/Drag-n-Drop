@@ -159,6 +159,7 @@ section{
     text-align: center;
 }
 .dropstack .block i:hover{
+    cursor: pointer;
     filter: invert(1);
 }
 
